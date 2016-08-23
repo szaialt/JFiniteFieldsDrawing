@@ -1,0 +1,22 @@
+<DrawingPaper>
+  <order></order>
+  <shapes>
+    <shape>
+      <color></color>
+      <points>
+      <point>
+      </point>
+      <point>
+      </point>
+      ...
+      <point>
+      </point>
+      </points>
+    </shape>
+    <shape>
+    </shape>
+    ...
+    <shape>
+    </shape>
+  </shapes>
+</DrawingPaper>
